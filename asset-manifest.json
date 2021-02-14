@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Vica-lish/smart-house/static/css/main.18068bfe.chunk.css",
-    "main.js": "/Vica-lish/smart-house/static/js/main.1e16f6f0.chunk.js",
-    "main.js.map": "/Vica-lish/smart-house/static/js/main.1e16f6f0.chunk.js.map",
-    "runtime-main.js": "/Vica-lish/smart-house/static/js/runtime-main.2447bcac.js",
-    "runtime-main.js.map": "/Vica-lish/smart-house/static/js/runtime-main.2447bcac.js.map",
-    "static/js/2.1738c016.chunk.js": "/Vica-lish/smart-house/static/js/2.1738c016.chunk.js",
-    "static/js/2.1738c016.chunk.js.map": "/Vica-lish/smart-house/static/js/2.1738c016.chunk.js.map",
-    "static/js/3.49341d1a.chunk.js": "/Vica-lish/smart-house/static/js/3.49341d1a.chunk.js",
-    "static/js/3.49341d1a.chunk.js.map": "/Vica-lish/smart-house/static/js/3.49341d1a.chunk.js.map",
-    "index.html": "/Vica-lish/smart-house/index.html",
-    "static/css/main.18068bfe.chunk.css.map": "/Vica-lish/smart-house/static/css/main.18068bfe.chunk.css.map",
-    "static/js/2.1738c016.chunk.js.LICENSE.txt": "/Vica-lish/smart-house/static/js/2.1738c016.chunk.js.LICENSE.txt"
+    "main.css": "/smart-house/static/css/main.18068bfe.chunk.css",
+    "main.js": "/smart-house/static/js/main.1e16f6f0.chunk.js",
+    "main.js.map": "/smart-house/static/js/main.1e16f6f0.chunk.js.map",
+    "runtime-main.js": "/smart-house/static/js/runtime-main.a112530e.js",
+    "runtime-main.js.map": "/smart-house/static/js/runtime-main.a112530e.js.map",
+    "static/js/2.1738c016.chunk.js": "/smart-house/static/js/2.1738c016.chunk.js",
+    "static/js/2.1738c016.chunk.js.map": "/smart-house/static/js/2.1738c016.chunk.js.map",
+    "static/js/3.49341d1a.chunk.js": "/smart-house/static/js/3.49341d1a.chunk.js",
+    "static/js/3.49341d1a.chunk.js.map": "/smart-house/static/js/3.49341d1a.chunk.js.map",
+    "index.html": "/smart-house/index.html",
+    "static/css/main.18068bfe.chunk.css.map": "/smart-house/static/css/main.18068bfe.chunk.css.map",
+    "static/js/2.1738c016.chunk.js.LICENSE.txt": "/smart-house/static/js/2.1738c016.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2447bcac.js",
+    "static/js/runtime-main.a112530e.js",
     "static/js/2.1738c016.chunk.js",
     "static/css/main.18068bfe.chunk.css",
     "static/js/main.1e16f6f0.chunk.js"
